@@ -1,0 +1,6 @@
+sno = int(input("enter sno: "))
+name = input("enter your name: ")
+clas = int(input("enter class: "))
+print("sno is :",sno)
+print("name is :", name)
+print("class is :",clas)

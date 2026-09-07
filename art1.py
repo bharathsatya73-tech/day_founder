@@ -1,0 +1,5 @@
+z = (input("ENTER a AND b VALUES :"))
+x,y = z.split(",")
+a = int(x)
+b = int(y)
+print("Addition : ",a+b,",Subtraction : ",a-b,",Multiplication : ",a*b,",Division : ",a/b,sep ="")

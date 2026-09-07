@@ -1,0 +1,5 @@
+z = input("enter a and b values :")
+x,y = z.split(",")
+a = int(x)
+b = int(y)
+print("10 > 5:",10 > 5,",10 < 5:",10 < 5,",10 == 5:",10 == 5,",10 != 5:",10 != 5,sep ="")

@@ -1,0 +1,16 @@
+a = 10 
+b = 3
+print(a+b)
+# IT GIVES ADDITION
+print(a-b)
+# IT GIVES SUBTRACTION
+print(a*b)
+# IT GIVES MULTIPLICATION
+print(a/b)
+# IT GIVES DIVISION 
+print(a%b)
+# IT GIVES REMINDER
+print(a//b)
+# IT ROUNDOFFS THE RESULT BY DECREASING IF 10/3 = 3.33 THEN 10//3 = 3
+print(a**b)
+# IT MEANS 10**3 = 10*10*10
